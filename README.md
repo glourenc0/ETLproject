@@ -1,4 +1,4 @@
-# Exemplo de Uso da API OpenAI para Chat Completions
+# Exemplo de Uso da API OpenAI
 
 Este projeto demonstra como interagir com a API da OpenAI usando Python para gerar respostas de chat. Ele utiliza a biblioteca `requests` para realizar requisições HTTP e `python-dotenv` para gerenciar as chaves de API de forma segura.
 
